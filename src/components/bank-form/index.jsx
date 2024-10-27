@@ -61,7 +61,7 @@ export default function BankFormApp() {
     }
     return (
         <div className="flex flex-col items-center justify-center h-screen bg-gray-100">
-            <h1 className="text-3xl font-bold mb-6">Transaction App
+            <h1 className="text-xl md:text-3xl font-bold mb-6">Transaction App
                 using UseReducer</h1>
             <div className="bg-white p-8 rounded-md shadow-md w-96">
                 <form className="space-y-4">
